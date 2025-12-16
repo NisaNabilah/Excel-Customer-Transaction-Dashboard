@@ -3,6 +3,14 @@ Project Overview
 This project involves analyzing customer transaction data to uncover spending patterns, refund behavior, and customer insights using Microsoft Excel.
 The objective was to simulate real-world financial data analysis commonly performed in banking and fintech environments.
 
+Data Source
+The dataset used in this project was obtained from Kaggle:
+Dataset Name: Bank Transaction Dataset
+Author: Toby Bushenyula
+Platform: Kaggle
+File Used: spending_data.csv
+This dataset was used strictly for educational and portfolio purposes.
+
 🧾 Dataset Description
 The dataset contains transaction-level customer data including:
 Transaction date and amount
@@ -43,3 +51,5 @@ Compared spending behavior across customer demographics
 Add customer segmentation by income group
 Incorporate Power BI version of the dashboard
 Improve dashboard design and layout
+
+This project is not affiliated with or endorsed by Kaggle or the dataset author.
